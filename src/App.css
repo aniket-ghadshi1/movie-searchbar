@@ -1,0 +1,16 @@
+.App{
+  width: 100vh;
+  height: 100vh;
+  background-color: #eee;
+}
+
+.elements{
+  background-color: aqua;
+  padding-top: 20vh;
+  width: 40%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 200px;
+}
